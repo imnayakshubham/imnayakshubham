@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imnayakshubham.github.io/portfolio/](https://imnayakshubham.github.io/portfolio/)
 
-- 📝 I regularly write articles on [https://imnayakshubham.hashnode.dev/](https://imnayakshubham.hashnode.dev/)
+- 📝 I write articles on [https://imnayakshubham.hashnode.dev/](https://imnayakshubham.hashnode.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
