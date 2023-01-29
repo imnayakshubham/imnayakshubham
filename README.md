@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayak Shubham</h1>
 <h3 align="center">A Story Teller who codes</h3>
 
-- 👨‍💻 All of my projects are available at [https://imnayakshubham.github.io/portfolio/](https://imnayakshubham.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://imnayakshubham.vercel.app/)
 
 - 📝 I write articles on [https://imnayakshubham.hashnode.dev/](https://imnayakshubham.hashnode.dev/)
 
