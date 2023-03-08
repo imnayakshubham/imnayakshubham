@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Nayak Shubham</h1>
-<h3>A Story Teller who codes</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://imnayakshubham.vercel.app/)
 
