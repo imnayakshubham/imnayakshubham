@@ -1,17 +1,92 @@
-<h1>Hi 👋, I'm Nayak Shubham</h1>
+<h1 align="center">Hi 👋, I'm Nayak Shubham</h1>
+<h3 align="center">Frontend Developer | Full-Stack Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://imnayakshubham.vercel.app/)
-
-- 📝 I write articles on [Hashnode](https://imnayakshubham.hashnode.dev/)
-
-## Tools and Technologies
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
-## <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/imnayakshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imnayakshubham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imnayakshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imnayakshubham" height="30" width="40" /></a>
-<a href="https://hashnode.com/@imnayakshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@imnayakshubham" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/imnayakshubham">GitHub</a> •
+  <a href="https://linkedin.com/in/imnayakshubham">LinkedIn</a> •
+  <a href="https://imnayakshubham.vercel.app/">Portfolio</a> •
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🚀 Software Developer passionate about building modern web/mobile apps
+- 🧠 Interested in **system design, developer tools, and scalable systems**
+- 💬 Ask me about **React, Node.js, Next.js, modern web development, and software engineering**
+- 🛠 Currently building developer tools and platforms:  
+  [build-app-with](https://www.npmjs.com/package/build-app-with) •  
+  [Hushwork](https://www.hushworknow.com) •  
+  [Nutri-AI](https://www.nutriai.hushworknow.com) *(coming soon)*  
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+- Ant Design
+- Vite
+
+### Backend
+- Node.js
+- Express
+- Fastify
+- Python
+- FastAPI
+- REST API Architecture
+
+### Databases
+- MongoDB
+- PostgreSQL
+
+### Databases
+- Unit Testing
+- Integration Testing
+- Cypress
+
+### DevOps & Infrastructure
+- Docker
+- GitHub Actions
+- CI/CD Pipelines
+
+---
+
+| Year | Title                                                                                                            | Technologies                                                                                     |
+| ---- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| 2025 | [build-app-with](https://github.com/imnayakshubham/build-app-with)                                               | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) |
+| 2025 | [Charging-Station-Dashboard-Platform](https://github.com/imnayakshubham/Charging-Station-Dashboard-Platform)     | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) |
+| 2024 | [Accesibilify](https://github.com/imnayakshubham/Accesibilify)                                                   | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) |
+| 2024 | [bookmark-manager-chrome-extension](https://github.com/imnayakshubham/bookmark-manager-chrome-extension)         | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) |
+| 2024 | [react-screen-recorder](https://github.com/imnayakshubham/react-screen-recorder)                                 | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) |
+| 2024 | [Resume-Match-using-Selenium-and-llama](https://github.com/imnayakshubham/Resume-Match-using-Selenium-and-llama) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square\&logo=python)             |
+| 2024 | [CorpConvBackend](https://github.com/imnayakshubham/CorpConvBackend)                                             | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square\&logo=javascript) |
+| 2023 | [portfolio-v2](https://github.com/imnayakshubham/portfolio-v2)                                                   | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) |
+
+
+Find more on [My Projects](https://imnayakshubham.vercel.app/)
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+  <img width="48%" height="200" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=imnayakshubham&layout=compact" />
+  <img width="48%" height="200" src="https://streak-stats.demolab.com/?user=imnayakshubham" />
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imnayakshubham" />
+</p>
+
+
+# 🔥 Current Focus
+
+- Building modern developer tools and automation workflows
+- Designing scalable web applications with React, Next.js, and Node.js
+- Deepening expertise in system design and backend architecture
+
+---
+
+⭐ If you find something interesting here, feel free to star the repositories or connect with me.
