@@ -37,7 +37,6 @@
 - Fastify
 - Python
 - FastAPI
-- REST API Architecture
 
 ### Databases
 - MongoDB
